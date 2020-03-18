@@ -1,0 +1,6 @@
+fichier autoexec.cfg:
+fichier config.cfg:
+les deux sont a placer dans : 
+Applications/Steam/SteamApps/common/Day Of Defeat source/dod/cfg
+MISSING MAP: 
+Dans le jeu dans « Options » puis « Multijoueurs » Puis « Autoriser … » 

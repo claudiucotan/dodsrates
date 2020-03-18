@@ -1,0 +1,1 @@
+-console -dxlevel 81 -noborder -nocrashdialog -nominidumps -novid -refresh 75 -threads 4 -h 768 -w 1360 -full
